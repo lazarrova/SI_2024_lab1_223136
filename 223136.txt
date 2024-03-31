@@ -17,3 +17,7 @@ ja koristev komandata git add . , potoa git commit -m "add starter code"
 so git checkout bug1 vlegov vo bug1 grankata ja srediv greshkata otvarajki ja
 so nano SILab1_1.java i fiksirajki potoa istoto i za grankata bug2 
 dodavajki gi porakite so git commit -m "" soodvetno.
+14-16CHEKOR. Se vrativ na grankata bug1, potoa go otvoriv so nano java fajlot
+go smeniv , napraviv git add . , potoa so git commit -m ja dodadov soodvetna
+poraka i pushnav na grankata so git push -u origin bug1.
+

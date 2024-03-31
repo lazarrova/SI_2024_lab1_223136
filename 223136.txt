@@ -1,0 +1,10 @@
+1. Instalirav Git i kreirav moj profil na Gihub. (lazarrova)
+2. Go smeniv imeto na mojata glavna granka vo master preku dadeniot link.
+3.Kreirav remote repozitorium so ime SI_2024_lab1_223136 i go napraviv 
+privaten.
+4. Preku komandata git clone i http linkot daden go klonirav vo svoj lokalen 
+so isto ime SI_2024_lab1_223136 i so komandata cd vlegov vo istiot i so 
+git init go incijalizirav.
+5. So naredbata git clone avtomatski se povrzuva.
+6.
+ 

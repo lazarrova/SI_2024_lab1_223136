@@ -20,4 +20,5 @@ dodavajki gi porakite so git commit -m "" soodvetno.
 14-16CHEKOR. Se vrativ na grankata bug1, potoa go otvoriv so nano java fajlot
 go smeniv , napraviv git add . , potoa so git commit -m ja dodadov soodvetna
 poraka i pushnav na grankata so git push -u origin bug1.
-
+16-17CHEKOR. Go napraviv istoto kako shto i objasniv vo prethodnite cekori 
+za bug1, ovde samo na branch bug2.

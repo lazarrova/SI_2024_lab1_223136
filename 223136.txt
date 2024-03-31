@@ -31,3 +31,10 @@ vo 223136.txt gi reshiv i ja iskoristiv komandata git merge --continue.
 napravivi git rebase bug2 kako shto mi se barase ,naidov na konflikt koj 
 go reshiv so brishenje na istata linija kod i prodolziv so 
 git rebase --continue.
+24-29CHEKOR ja spoiv bug2 so master , go git merge bug2, potoa gi izmeniv
+greshkite shto mi gi davashe i so git merge --force bug2 ja spoiv. 
+Ja kreirav datotekata logs.txt , gi kopirev moite logs otvarajki gi so
+git log , gi staviv vo datotekata i commitnav.
+Ja dosrediv datotekata 223136.txt i final commitnav.
+gi pushnav site.
+

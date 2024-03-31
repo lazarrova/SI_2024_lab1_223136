@@ -4,12 +4,15 @@ smeniv imeto na mojata glavna granka vo master preku dadeniot link.
 privaten. 
 4. Preku komandata git clone i http linkot daden go klonirav 
 vo svoj lokalen so isto ime SI_2024_lab1_223136 i so komandata cd vlegov 
-vo istiot i so git init go incijalizirav. 5. So naredbata git clone 
-avtomatski se povrzuva. 6.kreirav datoteka so komandata nano README.md 
+vo istiot i so git init go incijalizirav. 
+5. So naredbata git clone 
+avtomatski se povrzuva. 
+6.kreirav datoteka so komandata nano README.md 
 vo nea moeto ime prezime i indeks.Potoa so git add . ja dodadov potoa 
 stavivi "initial commit so komandata git commit -m "initial commit. i ja 
 "pushnav" so komandata 
 git push -u origin master. 
+<<<<<<< HEAD
 7.Gi prezeemav files i si gi staviv vo kreiraniot local repoziotium SI , 
 ja koristev komandata git add . , potoa git commit -m "add starter code"
 8. gi sinhronizirav so git push -u origin master.
@@ -22,3 +25,4 @@ go smeniv , napraviv git add . , potoa so git commit -m ja dodadov soodvetna
 poraka i pushnav na grankata so git push -u origin bug1.
 16-17CHEKOR. Go napraviv istoto kako shto i objasniv vo prethodnite cekori 
 za bug1, ovde samo na branch bug2.
+

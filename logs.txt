@@ -1,0 +1,193 @@
+vaska@LAPTOP-R1PM06PP MINGW64 ~/SI_2024_lab1_223136 (master)
+$ git log
+commit 8694f950d583d3f2eefaec120fd1f8e9064e96a6 (HEAD -> master, origin/master)
+Merge: 81b525e c86c40a
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 21:21:02 2024 +0200
+
+    Merge branch 'bug2'
+
+commit 81b525e58e30c0979f2fae7a2c09e80d3244b3fe
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 21:15:08 2024 +0200
+
+    add starter code
+
+commit c86c40a2662420594deb6db89fa4005349bda4c6 (origin/bug2, bug2)
+Merge: 31d5102 1b00975
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 21:10:48 2024 +0200
+
+    Merge branch 'bug2' of https://github.com/lazarrova/SI_2024_lab1_223136 into bug2
+
+commit 31d510229316f6d5b91980dd82744c7ca77b54fb
+Author: lazarrova <vaska.lazarova1@gmail.com>
+:
+commit 8694f950d583d3f2eefaec120fd1f8e9064e96a6 (HEAD -> master, origin/master)
+Merge: 81b525e c86c40a
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 21:21:02 2024 +0200
+
+    Merge branch 'bug2'
+
+commit 81b525e58e30c0979f2fae7a2c09e80d3244b3fe
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 21:15:08 2024 +0200
+
+    add starter code
+
+commit c86c40a2662420594deb6db89fa4005349bda4c6 (origin/bug2, bug2)
+Merge: 31d5102 1b00975
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 21:10:48 2024 +0200
+
+    Merge branch 'bug2' of https://github.com/lazarrova/SI_2024_lab1_223136 into bug2
+
+commit 31d510229316f6d5b91980dd82744c7ca77b54fb
+Author: lazarrova <vaska.lazarova1@gmail.com>
+:
+commit 8694f950d583d3f2eefaec120fd1f8e9064e96a6 (HEAD -> master, origin/master)
+Merge: 81b525e c86c40a
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 21:21:02 2024 +0200
+
+    Merge branch 'bug2'
+
+commit 81b525e58e30c0979f2fae7a2c09e80d3244b3fe
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 21:15:08 2024 +0200
+
+    add starter code
+
+commit c86c40a2662420594deb6db89fa4005349bda4c6 (origin/bug2, bug2)
+Merge: 31d5102 1b00975
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 21:10:48 2024 +0200
+
+    Merge branch 'bug2' of https://github.com/lazarrova/SI_2024_lab1_223136 into bug2
+
+commit 31d510229316f6d5b91980dd82744c7ca77b54fb
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 20:41:38 2024 +0200
+
+:
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 21:21:02 2024 +0200
+
+    Merge branch 'bug2'
+
+commit 81b525e58e30c0979f2fae7a2c09e80d3244b3fe
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 21:15:08 2024 +0200
+
+    add starter code
+
+commit c86c40a2662420594deb6db89fa4005349bda4c6 (origin/bug2, bug2)
+Merge: 31d5102 1b00975
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 21:10:48 2024 +0200
+
+    Merge branch 'bug2' of https://github.com/lazarrova/SI_2024_lab1_223136 into bug2
+
+commit 31d510229316f6d5b91980dd82744c7ca77b54fb
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 20:41:38 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 215ba82ffc661f3df766a43dd81675f4911d745b
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 20:15:56 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit ddea4ef5ea35f23b114bab50835526af15843e52
+Merge: 817e784 68467e3
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 20:55:57 2024 +0200
+
+    Merge branch 'bug1'
+
+commit 817e784ea90066aae29174be57033d132b2d8015
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 20:44:13 2024 +0200
+
+    add starter code
+
+commit 1b009757883fd4685bffb44041744b24f65c8b79
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 20:41:38 2024 +0200
+
+    Call method makeBigStringFrom in main class
+
+commit 558ebec1b01125d95ea475fedfb56000bab8fc0b
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 20:37:52 2024 +0200
+
+    add starter code
+
+commit 68467e36bf65d010a8c144b3c0564589c1adaaaa (origin/bug1, bug1)
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 20:34:06 2024 +0200
+
+    Call method filterOddLengthStrings in main class
+
+commit da5f94d4aa04c9444acb049b343b0c19166bc501
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 20:30:29 2024 +0200
+
+    add starter code
+
+commit bd98ef720c0e31f408e98fd09a3db71b4a55c710
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 20:15:56 2024 +0200
+
+    Fix wrong condition in makeBigStringFrom
+
+commit 631cc42489ac5fd11109ff14ac9ab752e2b3a4a1
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 20:09:10 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 51513094fbe0ab8654b5ba1ef2b69e0ea06e243c
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 19:36:02 2024 +0200
+
+    add starter code
+
+commit 068965b3f12e18d87ae16099bf8e09127f051206
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 19:09:40 2024 +0200
+
+    initial commit
+
+commit afab0b80c62a4d0cd59f2d92191c889d46b6a547
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 19:06:11 2024 +0200
+
+    final commit
+(END)
+commit 631cc42489ac5fd11109ff14ac9ab752e2b3a4a1
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 20:09:10 2024 +0200
+
+    Fix wrong condition in filterOddLengthStrings
+
+commit 51513094fbe0ab8654b5ba1ef2b69e0ea06e243c
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 19:36:02 2024 +0200
+
+    add starter code
+
+commit 068965b3f12e18d87ae16099bf8e09127f051206
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 19:09:40 2024 +0200
+
+    initial commit
+
+commit afab0b80c62a4d0cd59f2d92191c889d46b6a547
+Author: lazarrova <vaska.lazarova1@gmail.com>
+Date:   Sun Mar 31 19:06:11 2024 +0200
+
+    final commit

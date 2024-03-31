@@ -25,4 +25,9 @@ go smeniv , napraviv git add . , potoa so git commit -m ja dodadov soodvetna
 poraka i pushnav na grankata so git push -u origin bug1.
 16-17CHEKOR. Go napraviv istoto kako shto i objasniv vo prethodnite cekori 
 za bug1, ovde samo na branch bug2.
-
+18-23CHEKOR- sihronizirav se, komandi koi gi koristev se: git merge, 
+potoa koga mi se pojavija konflikti bidejki imav ista linija kod i isto 
+vo 223136.txt gi reshiv i ja iskoristiv komandata git merge --continue.
+napravivi git rebase bug2 kako shto mi se barase ,naidov na konflikt koj 
+go reshiv so brishenje na istata linija kod i prodolziv so 
+git rebase --continue.

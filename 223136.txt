@@ -3,9 +3,15 @@ smeniv imeto na mojata glavna granka vo master preku dadeniot link.
 3.Kreirav remote repozitorium so ime SI_2024_lab1_223136 i go napraviv 
 privaten. 4. Preku komandata git clone i http linkot daden go klonirav 
 vo svoj lokalen so isto ime SI_2024_lab1_223136 i so komandata cd vlegov 
-vo istiot i so git init go incijalizirav. 5. So naredbata git clone 
-avtomatski se povrzuva. 6.kreirav datoteka so komandata nano README.md 
+vo istiot i so git init go incijalizirav. 
+5. So naredbata git clone 
+avtomatski se povrzuva. 
+6.kreirav datoteka so komandata nano README.md 
 vo nea moeto ime prezime i indeks.Potoa so git add . ja dodadov potoa 
 stavivi "initial commit so komandata git commit -m "initial commit. i ja 
 "pushnav" so komandata
 git push -u origin master. 
+7. Gi prezemav trite fajlovi, gi premestiv vo mojot lokalen repozitorium 
+potoa napraviv git add . na trite i so git commit -m "add starter code" 
+dodadov poraka i napraviv git push -u origin master , uspeshno se dodadoa
+8. gi sinhronizirav so git push -u origin master
